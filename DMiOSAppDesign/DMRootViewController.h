@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DMRootViewController.h
 //  DMiOSAppDesign
 //
 //  Created by 张炯 on 2017/8/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface DMRootViewController : UIViewController
 
 @end
-
